@@ -1,0 +1,36 @@
+{
+  "name": "angular-coap",
+  "version": "0.0.1",
+  "description": "CoAP polyfill module for Angular.js",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/h0ru5/angular-coap.git"
+  },
+  "keywords": [
+    "Angular",
+    "coap",
+    "IETF",
+    "core",
+    "polyfill",
+    "iot"
+  ],
+  "author": "Johannes Hund <johannes.hund@gmail.com> (h0ru5)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/h0ru5/angular-coap/issues"
+  },
+  "homepage": "https://github.com/h0ru5/angular-coap#readme",
+  "devDependencies": {
+    "del": "^2.2.0",
+    "gulp": "^3.9.1",
+    "gulp-bower": "0.0.13",
+    "gulp-ng-annotate": "^2.0.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-uglify": "^1.5.3"
+  }
+}
