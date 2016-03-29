@@ -8,11 +8,11 @@
   "description": "CoAP polyfill: a service for angular applications",
   "main": "dist/angular-coap.js",
   "keywords": [
-    "angular",
-    "wot",
-    "w3c",
-    "web",
-    "things",
+   "Angular",
+    "coap",
+    "IETF",
+    "core",
+    "polyfill",
     "iot"
   ],
   "license": "MIT",
